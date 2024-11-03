@@ -1,0 +1,18 @@
+{
+  "Name": "Modun ismi",
+  "Author": "Modun yaratıcısı",
+  "Description": "Modun açıklaması",
+  "ModVersion": "1.0.0",
+  "GameVersion": "1.25.4",
+  "ThumbnailPath": "Modthumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3328155606"
+}
